@@ -1,6 +1,7 @@
 import random
 import sys
 
+#Realise BlackJack in python
 HEARTS = chr(9829)
 DIAMONDS = chr(9830)
 SPADES = chr(9824)
