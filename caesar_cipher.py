@@ -1,5 +1,6 @@
 import pyperclip
 
+#Cryptography
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 print('The Caesar cipher encrypts letters by shifting them over by a')

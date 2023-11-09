@@ -2,6 +2,7 @@ print('Enter the encrypted message here')
 message = input('> ')
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
+#Cryptography
 for key in range(len(SYMBOLS)):  # Проходим в цикле по всем возможным ключам.
     translated = ''
     # Расшифровываем каждый символ в сообщении:
