@@ -1,6 +1,7 @@
 import datetime
 import random
 
+#Birthday paradox
 def getBirthday(number_of_birthdays):
     birthdays = []
     for i in range(number_of_birthdays):
